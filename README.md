@@ -1,7 +1,6 @@
 <h1>Weather Analysis and Visualization</h1>
 <h2>Introduction</h2>
-
-The project is based on live weather data taken form website using web scraping. 
+ 
 Weather analysis and visualization is the application of science and technology to predict the state of the atmosphere for a given location.
 Everyone is affected adversely by natural calamities such as storm, cyclones etc. 
 <br>
