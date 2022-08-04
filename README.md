@@ -14,5 +14,5 @@ weather based on parameters such as temperature, humidity and wind. This
 project can help many important sectors like tourism, water resources, Air
 Traffic, Marine, Agriculture, Military, and Navy etc.
 <br><br>
-<h3>Dataset used </h3> <br>
+<h3>Website Used </h3> <br>
 <a href = "https://www.timeanddate.com/services/api/">api website</a>
